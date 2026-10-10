@@ -9,7 +9,7 @@ Static website suitable for deployment as a Render Static Site.
 
 ## Features
 - Existing typing modes and browser-saved progress
-- Calm instrumental and upbeat gaming background music
+- Calm instrumental, upbeat gaming background music,alex-morgan-gaming-rock-545508, soundsurfer-gaming-331807, vaitsez-gaming-gaming-music-607226 and zephiramusic-lofi-gaming-606302
 - New Puppy Feeding Challenge with 12 progressive typing stages
 - The puppy stays visible in every stage and unlocks accessories as the learner advances
 - Correct letters remove matching food pieces; completed challenges trigger a dance animation and synthesized bark-like sound
